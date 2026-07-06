@@ -13,3 +13,5 @@ val1=float(input("enter a float :"))
 val2=float(input("enter another float :"))
 avg=(val1+val2)/2
 print("avg is :" , avg)
+
+print("im awesome")
